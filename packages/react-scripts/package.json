@@ -1,5 +1,5 @@
 {
-  "name": "my-react-scripts",
+  "name": "@hello/react-scripts",
   "version": "4.0.3",
   "description": "Custom configuration and scripts for Create React App.",
   "repository": {
